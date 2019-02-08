@@ -28,7 +28,7 @@ public class TestLink {
 
 		}catch(Exception e){
 
-			System.out.println("Ad is not dispalyed");
+			System.out.println("Ad is not dispalyed:");
 
 		}
 		 	
