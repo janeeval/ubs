@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="33143" started-at="2019-02-08T09:41:57Z" finished-at="2019-02-08T09:42:30Z">
+  <suite name="Suite" duration-ms="49908" started-at="2019-02-11T04:45:51Z" finished-at="2019-02-11T04:46:41Z">
     <groups>
     </groups>
-    <test name="Test1Chrome" duration-ms="20971" started-at="2019-02-08T09:41:57Z" finished-at="2019-02-08T09:42:18Z">
+    <test name="Test1Chrome" duration-ms="36506" started-at="2019-02-11T04:45:51Z" finished-at="2019-02-11T04:46:28Z">
       <class name="Day2.TestLoginDemoWebShop">
-        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@5e5792a0]" name="beforeTest" is-config="true" duration-ms="8918" started-at="2019-02-08T09:41:57Z" finished-at="2019-02-08T09:42:06Z">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@1623b78d]" name="beforeTest" is-config="true" duration-ms="24193" started-at="2019-02-11T04:45:51Z" finished-at="2019-02-11T04:46:16Z">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@5e5792a0]" name="testDemoWebShopLogin" duration-ms="5313" started-at="2019-02-08T09:42:06Z" data-provider="dp1" finished-at="2019-02-08T09:42:11Z">
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@1623b78d]" name="testDemoWebShopLogin" duration-ms="5249" started-at="2019-02-11T04:46:16Z" data-provider="dp1" finished-at="2019-02-11T04:46:21Z">
           <params>
             <param index="0">
               <value>
@@ -34,7 +34,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDemoWebShopLogin -->
-        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@5e5792a0]" name="testDemoWebShopLogin" duration-ms="2823" started-at="2019-02-08T09:42:11Z" data-provider="dp1" finished-at="2019-02-08T09:42:14Z">
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@1623b78d]" name="testDemoWebShopLogin" duration-ms="3396" started-at="2019-02-11T04:46:21Z" data-provider="dp1" finished-at="2019-02-11T04:46:24Z">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDemoWebShopLogin -->
-        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@5e5792a0]" name="testDemoWebShopLogin" duration-ms="3095" started-at="2019-02-08T09:42:14Z" data-provider="dp1" finished-at="2019-02-08T09:42:17Z">
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@1623b78d]" name="testDemoWebShopLogin" duration-ms="3039" started-at="2019-02-11T04:46:24Z" data-provider="dp1" finished-at="2019-02-11T04:46:27Z">
           <params>
             <param index="0">
               <value>
@@ -66,15 +66,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDemoWebShopLogin -->
-        <test-method status="PASS" signature="afterclass()[pri:0, instance:Day2.TestLoginDemoWebShop@5e5792a0]" name="afterclass" is-config="true" duration-ms="412" started-at="2019-02-08T09:42:17Z" finished-at="2019-02-08T09:42:18Z">
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:Day2.TestLoginDemoWebShop@1623b78d]" name="afterclass" is-config="true" duration-ms="533" started-at="2019-02-11T04:46:27Z" finished-at="2019-02-11T04:46:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterclass -->
       </class> <!-- Day2.TestLoginDemoWebShop -->
     </test> <!-- Test1Chrome -->
-    <test name="Test2IE" duration-ms="33143" started-at="2019-02-08T09:41:57Z" finished-at="2019-02-08T09:42:30Z">
+    <test name="Test2IE" duration-ms="49904" started-at="2019-02-11T04:45:51Z" finished-at="2019-02-11T04:46:41Z">
       <class name="Day2.TestLoginDemoWebShop">
-        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@754ba872]" name="beforeTest" is-config="true" duration-ms="8037" started-at="2019-02-08T09:41:57Z" finished-at="2019-02-08T09:42:05Z">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@18078bef]" name="beforeTest" is-config="true" duration-ms="16257" started-at="2019-02-11T04:45:51Z" finished-at="2019-02-11T04:46:08Z">
           <params>
             <param index="0">
               <value>
@@ -85,7 +85,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@754ba872]" name="testDemoWebShopLogin" duration-ms="11970" started-at="2019-02-08T09:42:06Z" data-provider="dp1" finished-at="2019-02-08T09:42:18Z">
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@18078bef]" name="testDemoWebShopLogin" duration-ms="14192" started-at="2019-02-11T04:46:14Z" data-provider="dp1" finished-at="2019-02-11T04:46:28Z">
           <params>
             <param index="0">
               <value>
@@ -101,7 +101,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDemoWebShopLogin -->
-        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@754ba872]" name="testDemoWebShopLogin" duration-ms="6029" started-at="2019-02-08T09:42:18Z" data-provider="dp1" finished-at="2019-02-08T09:42:24Z">
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@18078bef]" name="testDemoWebShopLogin" duration-ms="6528" started-at="2019-02-11T04:46:28Z" data-provider="dp1" finished-at="2019-02-11T04:46:35Z">
           <params>
             <param index="0">
               <value>
@@ -117,7 +117,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDemoWebShopLogin -->
-        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@754ba872]" name="testDemoWebShopLogin" duration-ms="5798" started-at="2019-02-08T09:42:24Z" data-provider="dp1" finished-at="2019-02-08T09:42:30Z">
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:Day2.TestLoginDemoWebShop@18078bef]" name="testDemoWebShopLogin" duration-ms="6403" started-at="2019-02-11T04:46:35Z" data-provider="dp1" finished-at="2019-02-11T04:46:41Z">
           <params>
             <param index="0">
               <value>
@@ -133,7 +133,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDemoWebShopLogin -->
-        <test-method status="PASS" signature="afterclass()[pri:0, instance:Day2.TestLoginDemoWebShop@754ba872]" name="afterclass" is-config="true" duration-ms="18" started-at="2019-02-08T09:42:30Z" finished-at="2019-02-08T09:42:30Z">
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:Day2.TestLoginDemoWebShop@18078bef]" name="afterclass" is-config="true" duration-ms="117" started-at="2019-02-11T04:46:41Z" finished-at="2019-02-11T04:46:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterclass -->
